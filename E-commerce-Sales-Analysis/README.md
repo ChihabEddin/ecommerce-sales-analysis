@@ -42,12 +42,15 @@ The project includes the following analyses:
 Monthly Sales Trends
 Sales by Category
 Sales by Sub-Category
+
 2️⃣ Profit Analysis
 Profit by Category
 Profit by Sub-Category
+
 3️⃣ Customer Analysis
 Sales and Profit by Customer Segment
 Top Customers by Sales
+
 4️⃣ Business Insights
 Regional Sales Performance
 Discount vs Profit Analysis
